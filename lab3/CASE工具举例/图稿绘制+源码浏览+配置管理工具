@@ -1,0 +1,75 @@
+（一）图稿绘制
+1.Visio
+这是目前国内用得最多的case工具。它提供了日常使用中的绝大多数框图的绘画功能（包括信息领域的各种原理图，设计图)，同时提供了部分信息领域的实物图。
+Visio的精华在于其使用方便，安装后的visio2000既可以单独运行，也可以在word中作为对象插入，与word集成良好，其图生成后在没有安装visio的word仍然能够查看。使用过其他绘图工具肯定会感受到visio在处理框和文字上的流畅，同时在文件管理上，visio提供了分页、分组的管理方式。visio支持 UML的静态和动态建模，对UML的建模提供了单独的组织管理。
+从“office 2003”以后，Visio作为一个单独软件发行，不再集成于office办公软件。
+Visio有助于 IT 和商务专业人员轻松地可视化、分析和交流复杂信息。它能够将难以理解的复杂文本和表格转换为一目了然的 Visio 图表。该软件通过创建与数据相关的 Visio 图表来显示数据，这些图表易于刷新，并能够显著提高生产率。使用 Office Visio 中的各种图表可了解、操作和共享企业内组织系统、资源和流程的有关信息。
+
+2.smartdraw
+校园里比较流行的绘图软件。跟visio相比，smartdraw有许多不一样的地方。提供大量模版，以目录树的形式放在左边。使用者的设计都可以纳入模版，并且在某个目录组织。 
+smartdraw有许多visio没有的方便功能。比如插入表格。smartdraw本身是独立提供图稿绘制的工具，因而工具齐全。而visio更多是与word集成在一起,能够充分利用 word的编排功能。有心者不妨一试,有了感觉我们再交流。
+功能特点：
+(1)智能格式化
+SmartDraw的独家智能格式让任何人都能轻松创建专业的图表和图表。只需点击几个按钮。您甚至可以使用键盘构建图表。用简单的按键插入形状。在页面上移动它们，并且所有内容都重新对齐。智能格式化让您每次都有专业完成的信心。选择几个有吸引力的设计主题或创建自己的。添加照片和图像。 SmartDraw是创建任何类型的图表或图表的最佳方式。
+(2)智能模板
+SmartDraw包含数百个模板，以便您可以快速绘制。消除学习曲线使您快速轻松地创建您今天需要的图表。包括70多种不同类型的图表，图表和其他视觉效果。无论您需要创建什么，机会都有一个聪明的模板，可以帮助您快速完成任务。您还将获得数百个完全可编辑的示例。
+(3)智能集成
+martDraw可以轻松地和用户已经使用的工具集成。可以将图纸直接发送到Word，Excel，Outlook，Google Docs或Google Sheets。或将的绘图保存到Dropbox，Google Drive或OneDrive。
+　　SmartDraw Enterprise还与MicrosoftSharePoint和PowerPoint完全集成。只需点击一下即可将文件发布到SharePoint服务器。还可以浏览SharePoint?服务器，并检查SmartDraw中和之外的文档。
+(4)兼容Visio
+SmartDraw是Visio的完美替代品。只需点击几下即可导入现有的Visio文件和模板，并享受SmartDraw的强大功能和易用性。可以编辑页面，取消分组符号，更改填充颜色，调整大小，并继续使用Visio图表。
+SmartDraw相对于Microsoft Visio的优势
+SmartDraw比Microsoft Visio®更适合普通的电脑使用者。不像较难学的Microsoft Visio，SmartDraw是为普通的电脑用户设计的。一个新的SmartDraw使用者可以很快地开始做图。SmartDraw可以让任何人在几分钟内做出有专业水准的图---不需要经验或培训。
+SmartDraw包括创新的SmartTemplate™技术—--这也是Microsoft Visio®软件所没有的。智能模板使创建商业图和用文字处理软件写信一样简单。SmartDraw已经做出好几百种用于各种商业绘图的智能模块。每个智能模块加载了一个具体示意图、SmartPanel™指令集，以及相关 SmartPanel™循序渐进的指示。使用智能模块，一个用户可以很快地变成制作复杂图形的专家。因为用户可以使用SmartDraw 的专业预备图库。
+SmartDraw比Microsoft Visio®的功能更多,SmartDraw主要面向那些想要制作出吸引人的、且有效的商业图的普通电脑使用者。而这些人缺少专业技术和时间来学习那些为专业人士设计的复杂绘图软件。 SmartDraw可以制作30多种图标和图形，包括流程图、甘特图、时间进度表、组织图、日历、传单、平面图、记忆图、技术图形和等。
+
+（二）原码浏览的工具
+1.SourceInsight
+SourceInsight几乎支持所有的语言，包括：C，C++，ASM，HTML等等，能够自动创建并维护它自己高性能的符号数据库，包括函数、method、全局变量、结构、类和工程源文件里定义的其它类型的符号，对于大工程的源码阅读非常方便。
+SourceInsight是一款面向项目开发的程序编辑器和代码浏览器，它提供了一个视图将分散在各个地方的代码汇合在一起形成一个虚拟的整体，供开发者方便地阅读和编辑，如下图所示。设计宗旨就是方便开发者查看和修改项目源码。
+
+ 功能特点：
+(1)支持语言种类多。
+SI几乎支持所有的语言，如C、C++、C#、JAVA、ASM、PAS、ASP、HTML等，而其它编辑器往往只支持其中某类或某几种语言，丰富性远不及SI。
+(2)拥有自己的数据库。
+SI自动传创建并维护他自己高性能的符号数据库，包括包名、函数、method、全局变量、结构、类、注释和功能源文件里定义的其它类型的符号等。可以通俗地理解为缓存，当需要再次查找某个符号时，就可以直接从数据库中查找，而不用在整个源码库中搜索，极大提高了效率。
+(3)显示丰富的程序相关信息。
+SI提供了丰富多彩的窗口，为被选中的代码提供丰富的信息，如reference trees、class inheritance diagrams、call tress，symbol windows等。后面会专门介绍这些窗口的使用。
+(4)实时显示上下文信息。
+SI提供了Context Window，当鼠标选择代码中的某个符号时，该window会实时显示选中符号的上下文信息。在下文中的Context Window会详细讲到。甚至在你编辑的时候，SI同时分析你的源码，提供实时的信息并进行分析。 
+(5)快速。
+提供了快速和革新的访问源代码和源信息的能力，能以最快的速度对源代码导航和提供任何程序编辑器的源信息。
+
+2.Source Navigator
+Source-Navigator是原来redhat开发的一个源代码管理分析工具，它可以在Windows，Linux等多种平台下工作。功能类似于windows下的Sourceinsight，它可以显示类，函数以及成员之间的关系，对阅读分析源代码机器有用。
+Source-Navigator 支持C, C++, Java, Tcl, [incr Tcl], FORTRAN 和 COBOL, 并且提供SDK给开发者开发自己的语言解析器,Source-Navigator 是基于 GNU Public License 的。
+具体功能：
+分析某处源码的变化对其他模块的影响
+查找某个函数被调用的地方
+查找所有包含某个头文件的文件
+利用grep工具在源码中进行搜索
+
+SourceInsight和Source-Navigator
+SourceInsight中，选择美丽的界面享受工作，SI的华丽界面，绝对符合现代花花世界的人的审美趣味。在SI中，我们可以轻松地把各种类型关键字、变量、标志符、函数、宏、注释等定义为不同的颜色和显示方式(正体或斜体、加粗或正常、加下划线、放大显示等)，总有一种方式能让我们一眼就能分辨出这个标识是什么。字体、背景色、标识符样式都可以进行选择。同时可以配置合理的默认值高效工作，可以调整代码缩进、调整显示坐标、创建便捷的快捷键（例如F5指定行号，实现行跳转，在遇到编译错误的时候，能特别方便的找到出错行；Shift+F8高亮显示指定标识，快速浏览标识的使用情况等）。但是，对中文支持有缺陷。
+Source-Navigator的界面不怎么好看，用的不是GTK图形库，功能上和SourceInsight差不多。
+
+（三）配置管理工具
+1.ClearCase
+Rational公司的ClearCase是软件行业公认的功能最强大、价格最昂贵的配置管理软件。
+ClearCase主要应用于复杂产品的并行开发、发布和维护，其功能划分为四个范畴：版本控制、工作空间管理（Workspace Management）、构造管理（Build Management）、过程控制（Process Control）。ClearCase通过TCP/IP来连接客户端和服务器。另外，ClearCase拥有的浮动License可以跨越UNIX和Windows NT平台被共享。
+ClearCase的功能比CVS、SourceSafe强大得多，但是其用户量却远不如CVS、SourceSafe的多。主要原因是：
+ClearCase价格昂贵，如果没有批量折扣的话，每个License大约5000美元。对于中国用户而言，这无疑是天价。
+用户只有经过几天的培训后（费用同样很昂贵），才能正常使用ClearCase。如果不参加培训的话，用户基本上不可能无师自通。
+
+(1)cvs的服务器软件不是用java开发的
+cvs的历史要比java的历史久远的多，严格意义上cvs并没有真正意义上的服务器pserver/ntserver之类的类服务器模式实际上都只是完成用户鉴别权限的工作
+(2)ClearCase是依赖与文件共享的
+最早的ClearCase并不是rational的产品，而是一家叫做applo的公司在HP平台上开发的一套配置管理系统DTEMS(好像是这个名字)。ClearCase的核心是基于NFS的一套称作MFS的文件系统。后来applo几次转手倒卖给了rational.rational把它移植到了windows平台上，但是这个底层的架构至今没有发生变化。也就是说clearCase和vss一样是基于网络文件共享的。
+
+2.CVS
+CVS 是 Concurrent Version System（并行版本系统）的缩写，它是著名的开放源代码的配置管理工具。
+官方提供的是CVS服务器和命令行程序，但是官方并不提供交互式的客户端软件。许多软件机构根据CVS官方提供的编程接口开发了各色各样的CVS客户端软件，最有名的当推Windows环境的CVS客户端软件——WinCVS。WinCVS是免费的，但是并不开放源代码。
+CVS服务器是用Java编写的，可以在任何操作系统和网络环境下运行。CVS深受Unix和Linux 的用户喜爱。Borland公司的JBuilder提供了CVS的插件，Java程序员可以在JBuilder集成环境中使用CVS进行版本控制。
+CVS服务器有自己专用的数据库，文件存储并不采用SourceSafe的“共享目录”方式，所以不受限于局域网，信息安全性很好。
+CVS的主要缺点在于客户端软件，真可谓五花八门、良莠不齐。Unix和Linux 的软件高手可以直接使用CVS命令行程序，而Windows用户通常使用WinCVS。安装和使用WinCVS显然比SourceSafe麻烦不少，这是令人比较遗憾的。
+
