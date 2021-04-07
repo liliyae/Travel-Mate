@@ -1,0 +1,20 @@
+数据库建模
+PowerDesigner
+UML建模
+Visual Paradigm
+目前最合适也是最火的软件了(从这一年来网站的设计变化就可以看出来好卖), 强大, 非 Java. Community Edition 可以免费使用, 当然有功能限制.是一种UML建模和分析工具，出色的建模功能和代码同步
+PowerDesigner
+Sybase推出的主打数据库设计工具。PowerDesign致力于采用基于 Entiry-Relation的数据模型，分别从概念数据模型(Conceptual Data Model)和物理数据模型(Physical Data Model)两个层次对数据库进行设计。概念数据模型描述的是独立于数据库管理系统(DBMS)的实体定义和实体关系定义。物理数据模型是在概念数据模型的基础上针对目标数据库管理系统的具体化。Sybase数据库在国内知名度可能不及Oracle,但是Sybase 的数据库前端开发工具PowerBuilder却是无可匹敌，再加上PowerDesign的确有过人之处，因而它在国内得到相当广泛的使用。我手里使用的是2001的PowerDesign8.0,这个版本我感觉上比早期的PowerDesign6.0-7.5都有了很大的改变。PowerDesign 功能强大，使用非常方便。首先它提供了概念模型和物理模型的分组，呈现在使使用区左边的是树状的概念模型和物理模型导航，你可以建立多个概念模型和物理模型，并且以Package的形式任意组织；它几乎能够产生到所有常用数据库管理系统的SQL脚本，当然你完全可以不经过SQL脚本直接在DBMS中生成数据库；它提供增量的数据库开发功发功能，支持局部更新，你可以在概念模型，物理模型，实际数据库三者间完成设计的同步。还有逆向工程，再工程支持，目前还支持UML建模.总体感觉PowerDesing发展到8.0已经非常成熟，许多使用上细微的感觉只有你用过它才好评价，我不多说了。
+
+PowerDesigner系列产品提供了一个完整的建模解决方案，业务或系统分析人员，设计人员，数据库管理员DBA和开发人员可以对其裁剪以满足他们的特定的需要；而其模块化的结构为购买和扩展提供了极大的灵活性，从而使开发单位可以根据其项目的规模和范围来使用他们所需要的工具。
+Rational Rose
+Rational Rose是Rational公司出品的一种面向对象的统一建模语言的可视化建模工具。用于可视化建模和公司级水平软件应用的组件构造。
+就像一个戏剧导演设计一个剧本一样，一个软件设计师使用Rational Rose，以演员（数字）、使用拖放式符号的程序表中的有用的案例元素（椭圆）、目标（矩形）和消息/关系（箭头）设计各种类，来创造（模型）一个应用的框架。当程序表被创建时，Rational Rose记录下这个程序表然后以设计师选择的C++， Visual Basic，Java， Oracle8，CORBA或者数据定义语言（Data Definition Language）来产生代码。
+现在比较少的公司在使用已Rose。IBM推出了Rational Software Architect来替代Rational Rose。
+工具内容
+Rational Rose包括了统一建模语言（UML），OOSE，以及OMT。其中统一建模语言（UML）由Rational公司3位世界级面向对象技术专家Grady Booch、Ivar Jacobson、和Jim Rumbaugh通过对早期面向对象研究和设计方法的进一步扩展而得来的，它为可视化建模软件奠定了坚实的理论基础。同时这样的渊源也使Rational Rose力挫当前市场上很多基于UML可视化建模的工具，例如Microsoft的Visio2002、Oracle的Designer2000，还有PlayCase 、CA BPWin、CA ERWin、Sybase PowerDesigner等等。
+Rational Rose 是一个完全的、具有能满足所有建模环境（Web开发，数据建模，Visual Studio和 C++ ）灵活性需求的一套解决方案。Rose 允许开发人员，项目经理，系统工程师和分析人员在软件开发周期内在将需求和系统的体系架构转换成代码，消除浪费的消耗，对需求和系统的体系架构进行可视化，理解和精练。通过在软件开发周期内使用同一种建模工具可以确保更快更好的创建满足客户需求的可扩展的、灵活的并且可靠的应用系统。
+
+MS Visio
+Microsoft Visio是Windows操作系统下运行的流程图和矢量绘图软件，它是Microsoft Office软件的一个部分。2000年微软公司收购同名公司后，Visio成为微软公司的产品。它的竞争者是Adobe Illustrator、Macromedia FreeHand和CorelDraw。另外，Visio虽然是Microsoft Office软件的一个部分。但通常以单独形式出售，并不捆绑于Microsoft Office套装中。
+功能广泛强大的工具。和vs.net结合不错, 只是仅限于 VS.NET 的代码生成, 没意思，各方面都不舒服。
