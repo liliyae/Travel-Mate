@@ -16,3 +16,20 @@
 4.顾客需要注册账号<br />
 5.顾客可以根据城市、景点名称、景点评分查询，选择购买门票，可以对景点进行评价or打分<br />
 6.系统能够对指定时间、城市、景点名字进行统计分析，以便分析出受欢迎的景点<br />
+
+## Model
+### user model
+1.Login <br />
+2.Initialize the personal information <br />
+3.Select the city and search for attractions <br />
+4.Buy tickets <br />
+5.Evaluate and score the scenic spots <br />
+6.Interact with other customers and businesses under this review <br />
+
+### merchant model
+1.Login <br />
+2.Initialize the personal information <br />
+3.Modify the merchant's attractions information <br />
+4.Check the customer's age and consumption statistics <br />
+5.Check the statistics of ticket sales for different years, months, and days <br />
+6.Interact with other customers under customers’ reviews <br />
