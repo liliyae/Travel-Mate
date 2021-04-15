@@ -1,0 +1,18 @@
+<div id="getHelloApiDiv" style="background: aqua;height: 100px;width: 100px"></div>
+<script>
+    let getApiDiv = document.querySelector('#getHelloApiDiv');
+    let xhr = new XMLHttpRequest();
+    getApiDiv.onclick = function(){
+        ajaxResponse(
+        xhr,
+        function () {
+            let helloText = JSON.parse(xhr.responseText);
+            getApiDiv.innerText = helloText.msg;
+        },function () {
+        }
+    );
+    xhr.open('get','http://localhost:8000/polls/helloApi'); //接口写在这里
+    xhr.setRequestHeader('Content-type', 'application/x-www-form-urlencoded;charset=utf-8');
+    xhr.send(null);
+    };
+</script>

@@ -1,0 +1,26 @@
+<head>
+    <script src="jquery-3.4.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            alert("sta");
+            $.ajax({
+                url: 'http://localhost:8000/polls/helloApi',
+                type: 'GET',
+                dataType: 'JSON',
+                success: function(data) {
+                    {#alert(data.msg);#}
+                    document.getElementById("a").innerHTML = data.msg;
+                    //data就是后台返回的值
+                },
+                error: function() {
+
+                    alert("2333");
+                }
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <h1 id="a">111</h1>
+</body>
