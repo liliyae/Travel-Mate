@@ -18,7 +18,7 @@
 6.系统能够对指定时间、城市、景点名字进行统计分析，以便分析出受欢迎的景点<br />
 
 ## Model
-### user model
+### customer model
 1.Login <br />
 2.Initialize the personal information <br />
 3.Select the city and search for attractions <br />
@@ -33,3 +33,11 @@
 4.Check the customer's age and consumption statistics <br />
 5.Check the statistics of ticket sales for different years, months, and days <br />
 6.Interact with other customers under customers’ reviews <br />
+
+
+### merchant model
+1.Login <br />
+2.Modify customer information <br />
+3.Modify merchant information <br />
+4.statistic analysis <br />
+
