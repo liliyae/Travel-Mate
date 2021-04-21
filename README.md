@@ -35,7 +35,7 @@
 6.Interact with other customers under customers’ reviews <br />
 
 
-### merchant model
+### Administrator model
 1.Login <br />
 2.Modify customer information <br />
 3.Modify merchant information <br />
