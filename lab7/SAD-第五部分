@@ -1,0 +1,71 @@
+5  利用MySQL设计数据库
+5.1创建数据库：MySQL
+5.2创建表
+表4－1  Scenic spot
+
+序号	列名	数据类型	长度	小数位	标识	主键	允许空	默认值	说明
+1	Scene_id	int							
+2	Scene_name	string						
+3	Price	double		2					
+4	Address	string							
+5	Scene_picture								
+6	Remaining_tickets	int							
+7	View_count	int							
+8	Favorite_count	int							
+9	Mechant_id	int							
+10	City_name	string							
+11	City_id	int							
+
+表4－2  mechant
+
+序号	列名	数据类型	长度	小数位	标识	主键	允许空	默认值	说明
+1	Mechant_ID	int							
+2	Mechant_name	string							
+3	password	string							
+4	Phone_number	string							
+
+表4－3  order
+
+序号	列名	数据类型	长度	小数位	标识	主键	允许空	默认值	说明
+1	Order_id	int							
+2	User_id	int							
+3	Mechant_id	int							
+4	Total_price	double							
+5	Total_num	int							
+6	Scene_id	int							
+
+表4－4  user
+
+序号	列名	数据类型	长度	小数位	标识	主键	允许空	默认值	说明
+1	User_id	int							
+2	User_name	string							
+3	password	string							
+4	gender	bool							
+5	caption	string							
+6	age	int							
+表4－5  shopping cart
+
+序号	列名	数据类型	长度	小数位	标识	主键	允许空	默认值	说明
+1	User_id	int							
+2	Scene_id	sysname							
+3	Total_num	int							
+4	Total_price	int							
+
+表4－6 post
+
+序号	列名	数据类型	长度	小数位	标识	主键	允许空	默认值	说明
+1	Post_id	int					
+2	content	富文本形式							
+3	User_id	int							
+4	Publish_time	time							
+5	Order_id	int							
+
+表4－7 comment
+
+序号	列名	数据类型	长度	小数位	标识	主键	允许空	默认值	说明
+1	Post_id	int					
+2	Comment_content	string	50						
+3	Post_id	int							
+4	Comment_time	time							
+5	Order_id	int							
+
